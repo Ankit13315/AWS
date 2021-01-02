@@ -1,9 +1,0 @@
-[
-  {
-    "Description": "CENT",
-    "Format": "vmdk",
-    "UserBucket": {
-        "S3Bucket": "ankit315",
-        "S3Key": "CENT.vmdk"
-    }
-}]
